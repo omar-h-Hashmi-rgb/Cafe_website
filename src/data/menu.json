@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "id": "breakfast",
+      "name": "Breakfast Classics",
+      "description": "Start your day with our hearty breakfast options",
+      "items": [
+        {
+          "id": "avocado-toast",
+          "name": "Artisan Avocado Toast",
+          "description": "Fresh avocado spread on sourdough bread, topped with cherry tomatoes, feta cheese, and a drizzle of olive oil",
+          "price": 12.50,
+          "image": "/images/avocado-toast.png",
+          "dietary": ["vegetarian"],
+          "popular": true
+        },
+        {
+          "id": "eggs-benedict",
+          "name": "Classic Eggs Benedict",
+          "description": "Poached eggs on toasted English muffins with Canadian bacon and hollandaise sauce",
+          "price": 15.90,
+          "image": "/images/eggs-benedict.png",
+          "dietary": [],
+          "popular": false
+        },
+        {
+          "id": "pancakes",
+          "name": "Fluffy Buttermilk Pancakes",
+          "description": "Stack of three pancakes served with maple syrup, fresh berries, and whipped cream",
+          "price": 11.00,
+          "image": "/images/pancakes.png",
+          "dietary": ["vegetarian"],
+          "popular": true
+        }
+      ]
+    },
+    {
+      "id": "lunch",
+      "name": "Lunch Favorites",
+      "description": "Satisfying midday meals made with fresh ingredients",
+      "items": [
+        {
+          "id": "quinoa-bowl",
+          "name": "Mediterranean Quinoa Bowl",
+          "description": "Quinoa with roasted vegetables, chickpeas, feta cheese, and tahini dressing",
+          "price": 14.75,
+          "image": "/images/quinoa-bowl.png",
+          "dietary": ["vegetarian", "gluten-free"],
+          "popular": true
+        },
+        {
+          "id": "club-sandwich",
+          "name": "Gourmet Club Sandwich",
+          "description": "Triple-layered sandwich with turkey, bacon, lettuce, tomato, and avocado on sourdough",
+          "price": 13.25,
+          "image": "/images/club-sandwich.png",
+          "dietary": [],
+          "popular": false
+        },
+        {
+          "id": "caesar-salad",
+          "name": "Caesar Salad with Grilled Chicken",
+          "description": "Crisp romaine lettuce with parmesan cheese, croutons, and our signature caesar dressing",
+          "price": 12.90,
+          "image": "/images/caesar-salad.png",
+          "dietary": ["gluten-free"],
+          "popular": true
+        }
+      ]
+    },
+    {
+      "id": "beverages",
+      "name": "Beverages",
+      "description": "Carefully crafted drinks to complement your meal",
+      "items": [
+        {
+          "id": "espresso",
+          "name": "Single Origin Espresso",
+          "description": "Rich and aromatic espresso from ethically sourced beans",
+          "price": 3.50,
+          "image": "/images/espresso.png",
+          "dietary": ["vegan"],
+          "popular": true
+        },
+        {
+          "id": "green-smoothie",
+          "name": "Green Power Smoothie",
+          "description": "Spinach, banana, apple, ginger, and coconut water blend",
+          "price": 7.25,
+          "image": "/images/green-smoothie.png",
+          "dietary": ["vegan", "gluten-free"],
+          "popular": false
+        },
+        {
+          "id": "iced-latte",
+          "name": "Vanilla Iced Latte",
+          "description": "Smooth espresso with steamed milk and vanilla syrup over ice",
+          "price": 4.75,
+          "image": "/images/iced-latte.png",
+          "dietary": ["vegetarian"],
+          "popular": true
+        }
+      ]
+    }
+  ]
+}

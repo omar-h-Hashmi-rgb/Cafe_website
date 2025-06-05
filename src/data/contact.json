@@ -1,0 +1,32 @@
+{
+  "restaurant": {
+    "name": "Bella Vista Cafe",
+    "tagline": "Where Every Meal Tells a Story",
+    "description": "Experience the perfect blend of comfort and sophistication at Bella Vista Cafe, where fresh ingredients meet culinary artistry."
+  },
+  "contact": {
+    "phone": "+91 1234567890",
+    "email": "hello@bellavistacafe.com",
+    "address": {
+      "street": "Palm Rd",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "zipCode": "440001",
+      "country": "India"
+    }
+  },
+  "hours": {
+    "monday": "7:00 AM - 9:00 PM",
+    "tuesday": "7:00 AM - 9:00 PM",
+    "wednesday": "7:00 AM - 9:00 PM",
+    "thursday": "7:00 AM - 9:00 PM",
+    "friday": "7:00 AM - 10:00 PM",
+    "saturday": "8:00 AM - 10:00 PM",
+    "sunday": "8:00 AM - 9:00 PM"
+  },
+  "social": {
+    "instagram": "https://instagram.com/bellavistacafe",
+    "facebook": "https://facebook.com/bellavistacafe",
+    "twitter": "https://twitter.com/bellavistacafe"
+  }
+}

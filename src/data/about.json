@@ -1,0 +1,44 @@
+{
+  "story": {
+    "title": "Our Story",
+    "content": "Bella Vista Cafe began as a dream shared by two food enthusiasts who believed that every meal should be an experience. Founded in 2018, we've been committed to serving fresh, locally-sourced ingredients in a warm and welcoming atmosphere. Our kitchen combines traditional techniques with modern creativity, resulting in dishes that comfort the soul while exciting the palate."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "content": "We're dedicated to creating memorable dining experiences by focusing on quality ingredients, exceptional service, and a community-centered approach. Every dish is prepared with care, and every guest is treated like family."
+  },
+  "team": [
+    {
+      "name": "Ayush Patil",
+      "role": "Head Chef & Co-Founder",
+      "bio": "With over 15 years of culinary experience, Ayush brings passion and creativity to every dish. Her background in Mediterranean cuisine influences our menu's fresh and vibrant flavors.",
+      "image": "/images/chef-Ayush.png"
+    },
+    {
+      "name": "Aryan Kapoor",
+      "role": "Restaurant Manager & Co-Founder",
+      "bio": "Aryan ensures that every guest feels welcomed and valued. His attention to detail and commitment to service excellence has made Bella Vista a beloved neighborhood destination.",
+      "image": "/images/manager-Aryan.png"
+    },
+    {
+      "name": "Samira Khan",
+      "role": "Pastry Chef",
+      "bio": "Samira's artistic approach to desserts and baked goods adds the perfect sweet finish to our meals. Her creations are as beautiful as they are delicious.",
+      "image": "/images/chef-samira.png"
+    }
+  ],
+  "values": [
+    {
+      "title": "Fresh & Local",
+      "description": "We source ingredients from local farms and suppliers, supporting our community while ensuring the highest quality."
+    },
+    {
+      "title": "Sustainable Practices",
+      "description": "Our commitment to environmental responsibility guides our operations, from composting to eco-friendly packaging."
+    },
+    {
+      "title": "Community First",
+      "description": "We believe in giving back to the neighborhood that has embraced us, participating in local events and supporting community initiatives."
+    }
+  ]
+}
